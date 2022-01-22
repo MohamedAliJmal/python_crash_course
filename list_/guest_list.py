@@ -1,0 +1,20 @@
+guest=["mohamed","ali","jmal"]
+print(guest[-1])
+guest[-1]="hama"
+print(guest)
+guest.insert(0,"ba9")
+guest.insert(2,"jmal")
+guest.append("ftw")
+print(guest)
+print("#"*50)
+f=guest.pop()
+print(f)
+f=guest.pop()
+print(f)
+f=guest.pop()
+print(f)
+f=guest.pop()
+print(f)
+print(guest)
+del guest[0]
+print(guest)

@@ -1,0 +1,5 @@
+I've learned about python 
+how to handle variable and list and other data structures(list,dict..)
+how to work with loops
+how to transform real world object to classes
+and now learning about files and exceptions

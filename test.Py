@@ -1,0 +1,2 @@
+print("hama")
+print("haha")
